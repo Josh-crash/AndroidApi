@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidApi</string>
+
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="login">LOGIN</string>
+    <string name="button_register">REGISTER</string>
+    <string name="button_link_to_register">Sign up now.</string>
+    <string name="not_member">Not a member?</string>
+    <string name="button_link_to_login">Login Me</string>
+    <string name="welcome">Welcome</string>
+    <string name="button_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="signup_massage">Sign up for Health Guide</string>
+    <string name="member">Account</string>
+</resources>
